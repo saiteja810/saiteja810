@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saiteja
+- 👋 Hi, I’m Sai Teja Beeram
 - 👀 I’m interested in Web Development & Entrepreneurship
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m a Learner
